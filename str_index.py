@@ -1,0 +1,6 @@
+str=input("Enter the String:")
+print(str[:5])
+print(str[3:6])
+print(str[-7:-1])
+print(str.endswith("there"))
+print(str.startswith("anushka"))
