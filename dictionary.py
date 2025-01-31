@@ -1,0 +1,13 @@
+name=''
+dic={'name':"Ram",'age':12,'subject':{'phy':74,'chem':77,'maths':87}}
+print(dic['name'])
+dic['age']=19
+print(dic)
+dict={}
+dict['ice']="cream"
+print(dict)
+print(dic.keys())
+print(dic.items())
+print(dic.values())
+dic.update({'j':8})
+print(dic)
