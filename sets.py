@@ -11,4 +11,7 @@ s.remove(10)
 print(s)
 s.clear()
 print(s)
-
+u=set1.union(st)
+print(u)
+v=set1.intersection(st)
+print(v)
